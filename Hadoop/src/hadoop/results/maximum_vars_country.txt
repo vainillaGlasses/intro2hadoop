@@ -1,0 +1,7 @@
+Africa	Niger;32.4	Senegal;39.6	Djibouti;27.3	British Indian Ocean Territory;11413.51	Kenya;42.0	South Africa;320.0	Algeria;159.0	Cameroon;284.0	Saint Helena;265.0	Burkina Faso;6.0	Libya;107.0
+Antarctica	Antarctica;6.0	Antarctica;8.0	Antarctica;4.6	Antarctica;11381.58	Antarctica;48.4	Antarctica;311.0	Antarctica;270.0	Antarctica;6.0	Antarctica;310.0	Antarctica;2.0	Antarctica;32.0
+Asia	Saudi Arabia;31.8	Saudi Arabia;39.9	Saudi Arabia;27.5	Russia;7662.88	Japan;66.1	Japan;322.0	Russia;253.0	Malaysia;254.0	Taiwan;354.0	Malaysia;15.0	Russia;97.0
+Europe	France;27.6	France;30.9	France;26.0	Italy;12076.38	United Kingdom;55.8	Greece;350.0	Switzerland;228.0	Croatia;89.0	Germany;355.0	Germany;15.0	United Kingdom;97.0
+North America	Cayman Islands;36.0	Cayman Islands;37.4	Cayman Islands;34.6	United States Minor Outlying Islands;9259.09	United States;62.6	United States;325.0	Canada;294.0	Guatemala;199.0	United States;333.0	United States;39.0	Mexico;212.0
+Oceania	Samoa;33.5	Australia;36.8	Samoa;32.1	Micronesia;6009.89	Australia;42.7	Australia;359.0	Australia;106.0	Solomon Islands;130.0	Australia;223.0	Australia;3.0	New Zealand;60.0
+South America	Brazil;31.8	Colombia;36.6	Brazil;28.0	Peru;11089.89	Chile;44.5	Chile;310.0	South Georgia and the South Sandwich Islands;189.0	Brazil;238.0	Ecuador;315.0	Argentina;17.0	South Georgia and the South Sandwich Islands;56.0

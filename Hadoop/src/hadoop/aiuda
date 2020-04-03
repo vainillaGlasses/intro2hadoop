@@ -1,0 +1,2 @@
+javac -classpath `hadoop classpath` -d hadoop/ *.java
+jar -cvf output.jar -C hadoop/ .

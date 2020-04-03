@@ -1,0 +1,29 @@
+TABLA		ARCHIVO				LETRA		DESCRIPCION
+CountryMaxMinAverage	top_ten_max		a		Los 10 países con los máximos promedios	generales	
+CountryMaxMinAverage	top_ten_min		b		Los 10 países con los mínimos promedios	generales	
+YearMaxMinVar		maximum_values_years	c		Para cada país el año en que cada uno de las variables fue la máxima	
+YearMaxMinVar		minimum_vars_year	d		Para cada país el año en que cada uno de las variables fue la minima	
+ContinentAverageVar				e		El promedio de temperatura para	cada continente, en grupos de 10 años	
+StationMaxMinVar	maximum_vars_station	f		Por País la estación que tiene los valores máximos	
+StationMaxMinVar	minimum_vars_station	g		Por País la estación que tiene los valores mínimos	
+ContCountryMaxMinVar	maximum_vars_country	h		Por Continente los países con los valores máximos	
+ContCountryMaxMinVar	minimum_vars_country	i		Por Continente los países con los valores mínimos	0-##.###E -> Ninguno
+
+a Los 10 países	con los	máximos	promedios generales	
+b Los 10 países	con los	mínimos	promedios generales	
+c Para cada país el año en que cada uno	de las variables fue la	máxima	
+d Para cada país el año en que cada uno	de las variables fue la	minima	
+e El promedio de temperatura para cada continente, en grupos de 10 años	
+f Por País la estación que tiene los valores máximos	
+g Por País la estación que tiene los valores mínimos	
+h Por Continente los países con los valores máximos	
+i Por Continente los países con los valores mínimos
+
+/var/www/html/HadoopClimate/Hadoop/src/hadoop/results/top_ten_max a
+/var/www/html/HadoopClimate/Hadoop/src/hadoop/results/top_ten_min b
+/var/www/html/HadoopClimate/Hadoop/src/hadoop/results/maximum_vars_country c
+/var/www/html/HadoopClimate/Hadoop/src/hadoop/results/minimum_vars_country d
+/var/www/html/HadoopClimate/Hadoop/src/hadoop/results/maximum_vars_station f
+/var/www/html/HadoopClimate/Hadoop/src/hadoop/results/minimum_vars_station g
+/var/www/html/HadoopClimate/Hadoop/src/hadoop/results/maximum_values_years h
+/var/www/html/HadoopClimate/Hadoop/src/hadoop/results/minimum_vars_year i

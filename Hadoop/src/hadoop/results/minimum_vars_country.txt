@@ -1,0 +1,7 @@
+Africa	Algeria;-11.5	Algeria;-8.3	Algeria;-15.5	Algeria;0.0	Algeria;0.0	Algeria;0.0	Zimbabwe;0.0	Algeria;0.0	Algeria;0.0	Zimbabwe;0.0	Zimbabwe;0.0
+Antarctica	Antarctica;-55.0	Antarctica;-50.0	Antarctica;-60.4	Antarctica;0.0	Antarctica;4.6	Antarctica;0.0	Antarctica;0.0	Antarctica;0.0	Antarctica;0.0	Antarctica;0.0	Antarctica;0.0
+Asia	Russia;-18.9	Russia;-15.7	Russia;-26.2	Yemen;0.0	Thailand;0.0	United Arab Emirates;0.0	Yemen;0.0	Yemen;0.0	Yemen;0.0	Russia;0.0	Russia;0.0
+Europe	Iceland;-16.1	Iceland;-12.0	Iceland;-19.7	Netherlands;0.0	Italy;0.0	Netherlands;0.0	Netherlands;0.0	Netherlands;0.0	Netherlands;0.0	Netherlands;0.0	Netherlands;0.0
+North America	Greenland;-29.0	Greenland;-24.0	Greenland;-34.1	Canada;0.0	United States;0.0	Canada;0.0	Canada;0.0	Canada;0.0	Canada;0.0	Canada;0.0	Canada;0.0
+Oceania	Australia;1.6	Australia;2.7	Australia;-0.3	Australia;0.0	Fiji;0.0	Australia;0.0	Australia;0.0	Australia;0.0	Australia;0.0	Australia;0.0	Australia;0.0
+South America	South Georgia and the South Sandwich Islands;-5.5	Chile;-2.2	Chile;-9.0	Argentina;0.0	Peru;0.2	Argentina;0.0	Argentina;0.0	Argentina;0.0	Argentina;0.0	Argentina;0.0	Argentina;0.0
